@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📝 I write articles sometimes [https://dreveiw.blogspot.com/](https://www.blogger.com/blog/posts/4590194176827840835?bpli=1&pli=1)
+- 📝 I write articles sometimes [https://dreveiw.blogspot.com/](https://dreveiw.blogspot.com/)
 
 - 💬 Ask me about **UI, python**
 
